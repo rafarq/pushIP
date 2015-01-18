@@ -8,6 +8,7 @@ Because I have a Raspbery Pi in my home where I have some tools. I want them to 
 ## 2. What do you need?
 * An account on [PushOver.net](http://pushover.net)
 * A linux/mac computer
+* An android/iOS device with pushover App.
  
 ## 3. How to make it work
 Put all the files on your home directory, in my case it was `/home/pi/`. This is going to be yours if you use a raspberry pi like me.
@@ -50,4 +51,4 @@ If you want to know more about crontab to setup another configuration, please re
 * [Explanation 2](http://crontab.org)
 
 ### 5. Me
-I'm @rafarq on twitter. I would appreciate to know about you If you find this script useful for you.
+I'm [@rafarq](http://twitter.com/rafarq) on twitter. I would appreciate to know about you If you find this script useful for you.
