@@ -48,3 +48,6 @@ If the IP changes you will reicive the notification with the new IP, if not it w
 If you want to know more about crontab to setup another configuration, please refer to: 
 * [Explanation 1](http://www.adminschoice.com/crontab-quick-reference)
 * [Explanation 2](http://crontab.org)
+
+### 5. Me
+I'm @rafarq on twitter. I would appreciate to know about you If you find this script useful for you.
