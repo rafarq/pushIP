@@ -20,7 +20,7 @@ Make the script executable and the file `currentIP.txt`accesible with the comman
 ### 3.1 Edit the script
 First of all you have to edit the script file in te repository to match your personal data:
 #### 3.1.1 Paths
-You have to give the script the path to the currentIP.txt file on lines #14 and #35
+You have to give the script the path to the currentIP.txt file on line #8
 Note that the user that runs the script must give write access to the file.
 
 #### 3.1.2 PushOver
@@ -40,6 +40,7 @@ To make your linux box to check IP changes you can use crontab.
     crontab -e
 
 You get the file where you cron jobs are listed. Add a new line at the end of the file like this:
+
     */30 * * * * sh /home/pi/script.sh
 
 It will run the `script.sh`at hour:30 minutes and at o'clock hours: 12:00-12:30-13:00-13:30-----and so on.
