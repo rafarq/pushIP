@@ -1,6 +1,10 @@
 #!/bin/bash
 #Autor/Author: Rafael Roa
+#Twitter:@rafarq
+#github: https://github.com/rafarq
+#Descripcion:
 #Script para enviar un mensaje mediante PushOver con la ip externa del router cada vez que cambie.
+#Description:
 #Get a push notification via PushOver when your computer changes its public IP.
 
 #CONFIGURATION
